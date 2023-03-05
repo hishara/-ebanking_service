@@ -9,4 +9,4 @@ Navigate to the project root directory to find the following scripts
 - Users with Docker installed: docker_startup.sh
 - Users without Docker installed: startup.sh
 
-### Refer the detailed design document attached for more insights
+### Refer the detailed design document attached for more insights - detailed_design_ebanking_app.pdf
